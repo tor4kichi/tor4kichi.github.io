@@ -2,10 +2,11 @@
 
 ## tor4kichi が作ったアプリ
 
-### Hohoema ([DL](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io))
+### Hohoema ([DL](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io)) 
 
-Hohoema はニコニコの動画や生放送をランキングや検索から探して視聴することが出来るアプリケーションです
+Hohoema はニコニコの動画や生放送をランキングや検索から探して視聴することが出来るアプリケーションです。
 
+* 2016年 提供開始
 * [プライバシーポリシー](https://tor4kichi.github.io/hohoema/privacy-policy)
 
 
@@ -13,12 +14,14 @@ Hohoema はニコニコの動画や生放送をランキングや検索から探
 
 漫画と小説のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます。
 
+* 2020年 提供開始
 * [プライバシーポリシー](https://tor4kichi.github.io/tsubame_viewer/privacy-policy)
 
 ### ニコ動スナップショット検索アシスタントツール ([DL](https://apps.microsoft.com/store/detail/%E3%83%8B%E3%82%B3%E5%8B%95%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB/9N9Z575ZF4NG?hl=ja-jp&gl=jp))
 
 ニコニコ動画のスナップショット検索API v2を利用したデータ取得・表示・エクスポートを補助するアプリです。
 
+* 2022年 提供開始
 * [プライバシーポリシー](https://tor4kichi.github.io/nico_sssat/privacy-policy)
 
 ### VoiceOfClock (準備中)
@@ -27,12 +30,20 @@ Hohoema はニコニコの動画や生放送をランキングや検索から探
 
 * [プライバシーポリシー](https://tor4kichi.github.io/voiceofclock/privacy-policy)
 
+## 作ったライブラリ
+
+### NiconicoToolkit ([DL](https://github.com/tor4kichi/NiconicoToolkit))
+
+ .Net向けニコニコAPIライブラリです。
+
 ## Contact 
 
 * [twitter @tor4kichi](https://twitter.com/tor4kichi)
 * [マシュマロ（匿名質問）](https://marshmallow-qa.com/tor4kichi)
   * tor4kichi製作のアプリに対する質問や不具合報告などはこちらからどうぞ
   
- 
+ ## Blogs
+
+* [note](https://note.com/tor4kichi)
 
 
