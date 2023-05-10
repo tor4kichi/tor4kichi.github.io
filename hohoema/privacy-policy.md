@@ -107,7 +107,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdAEtkYSvxXf4mCbk_sQVVsG0MY-mYiC74fyG_l
 
 以上
 
-Hohoema開発者: 東浦 貴一 tor4kichi
+Hohoema開発者: tor4kichi
 
 
 * * *

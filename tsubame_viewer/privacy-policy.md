@@ -27,4 +27,4 @@ TsubameViewer（以下「本アプリ」）ではインストールされた端�
 
 以上
 
-TsubameViewer開発者：東浦貴一 tor4kichi
+TsubameViewer開発者：tor4kichi
