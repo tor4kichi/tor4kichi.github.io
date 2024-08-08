@@ -28,6 +28,17 @@ Windows10/11デスクトップ向けの合成音声や音楽ファイルを利�
 * [プライバシーポリシー](https://tor4kichi.github.io/VoiClo/privacy-policy)
 * v1.2.0以前は VoiceOfClock という名前で公開していました
 
+### Starryboard 
+
+Windows向けの絵コンテ編集アプリです。
+
+* ストアページ（準備中）
+* 2024年 リリース予定
+* [ホームページ](https://tor4kichi.github.io/starryboard/about)
+* [プライバシーポリシー](https://tor4kichi.github.io/starryboard/privacy-policy)
+
+
+
 ## 作ったライブラリ
 
 ### NiconicoToolkit
