@@ -2,22 +2,14 @@
 
 ## tor4kichi が作ったアプリ
 
-### Hohoema 
+### Starryboard 
 
-Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリです。
+Windows向けの絵コンテ編集アプリです。
 
-* [ストアページ](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io)
-* 2016年 提供開始
-* [プライバシーポリシー](https://tor4kichi.github.io/hohoema/privacy-policy)
-
-
-### ツバメビューア
-
-Windows/Xbox向けの漫画と小説のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます。
-
-* [ストアページ](https://apps.microsoft.com/store/detail/%E3%83%84%E3%83%90%E3%83%A1%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/9NDXXQRG4PL8?hl=ja-jp&gl=jp)
-* 2020年 提供開始
-* [プライバシーポリシー](https://tor4kichi.github.io/tsubame_viewer/privacy-policy)
+* [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
+* 2024年 8月 提供開始
+* [ホームページ](https://tor4kichi.github.io/starryboard/about)
+* [プライバシーポリシー](https://tor4kichi.github.io/starryboard/privacy-policy)
 
 ### VoiClo
 
@@ -28,14 +20,21 @@ Windows10/11デスクトップ向けの合成音声や音楽ファイルを利�
 * [プライバシーポリシー](https://tor4kichi.github.io/VoiClo/privacy-policy)
 * v1.2.0以前は VoiceOfClock という名前で公開していました
 
-### Starryboard 
+### ツバメビューア
 
-Windows向けの絵コンテ編集アプリです。
+Windows/Xbox向けの漫画と小説のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます。
 
-* ストアページ（準備中）
-* 2024年 リリース予定
-* [ホームページ](https://tor4kichi.github.io/starryboard/about)
-* [プライバシーポリシー](https://tor4kichi.github.io/starryboard/privacy-policy)
+* [ストアページ](https://apps.microsoft.com/store/detail/%E3%83%84%E3%83%90%E3%83%A1%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/9NDXXQRG4PL8?hl=ja-jp&gl=jp)
+* 2020年 提供開始
+* [プライバシーポリシー](https://tor4kichi.github.io/tsubame_viewer/privacy-policy)
+
+### Hohoema 
+
+Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリです。
+
+* [ストアページ](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io)
+* 2016年 提供開始
+* [プライバシーポリシー](https://tor4kichi.github.io/hohoema/privacy-policy)
 
 
 
