@@ -36,7 +36,7 @@ Windows向け絵コンテ制作アプリです。
 
 * [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
 * [アプリへのご意見ご感想 - Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURFBZNzMzSTBEMlNNMjJHTEk0UU1WQVNZSS4u)
-* [アプリの更新情報](/starryboard/updates.md)
-* [プライバシーポリシー](/starryboard/privacy-policy.md)
+* [アプリの更新情報](/starryboard/updates)
+* [プライバシーポリシー](/starryboard/privacy-policy)
 
 
