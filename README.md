@@ -4,7 +4,7 @@
 
 ### Starryboard 
 
-Windows向けの絵コンテ編集アプリです。
+Windows10/11向けの絵コンテ制作支援アプリです。
 
 * [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
 * 2024年 8月 提供開始
