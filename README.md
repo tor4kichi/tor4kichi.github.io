@@ -9,6 +9,7 @@ Windows10/11向けの絵コンテ制作支援アプリです。
 * [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
 * 2024年 8月 提供開始
 * [ホームページ](https://tor4kichi.github.io/starryboard/about)
+* [アプリの使い方](https://tor4kichi.github.io/starryboard/features/features_v0.md)
 * [プライバシーポリシー](https://tor4kichi.github.io/starryboard/privacy-policy)
 
 ### VoiClo
