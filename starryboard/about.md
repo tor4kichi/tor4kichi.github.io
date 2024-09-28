@@ -38,7 +38,7 @@ Windows向け絵コンテ制作アプリです。
 
 ## その他のリンク
 
-* [アプリの使い方](https://tor4kichi.github.io/starryboard/features/features_v0.md)
+* [アプリの使い方](https://tor4kichi.github.io/starryboard/features/features_v0)
 * [アプリの更新情報](/starryboard/updates)
 
 * [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
