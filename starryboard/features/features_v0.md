@@ -1,4 +1,4 @@
-# Starryboardの機能説明
+# Starryboardの使い方
 
 この記事が対象とするStarryboard のバージョン 
 
