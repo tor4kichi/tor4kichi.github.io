@@ -2,10 +2,15 @@
 
 Windows向け絵コンテ制作アプリです。
 
-## 対応プラットフォーム
+## ダウンロード
 
-* [Windows10/11 - Microsoft Store](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
-  * デスクトップおよびタブレット環境を想定
+<a href="https://apps.microsoft.com/detail/9pn1wkv4cglj?cid=github_io_about&mode=direct">
+	<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200"/>
+</a>
+
+### 対応プラットフォーム
+* Windows10/11のみ
+  * デスクトップおよびタブレット環境
   * マウス・タッチ・ペン入力に対応
 
 ### アプリの機能
