@@ -14,7 +14,7 @@ Windows向け絵コンテ制作アプリです。
   * マウス・タッチ・ペン入力に対応
 
 ## リンク
-* [アプリの使い方](/starryboard/features/v0.md)
+* [アプリの使い方](/starryboard/features/v0)
 * [アプリの更新情報](/starryboard/updates)
 * [プライバシーポリシー](/starryboard/privacy-policy)
 * [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
@@ -39,7 +39,7 @@ Windows向け絵コンテ制作アプリです。
 ### エクスポート対応
 
 * 動画コンテ(.mp4)
-  * [チャプター結合も可能](/starryboard/features/v0/merge-video-and-chapters.md)
+  * [チャプター結合も可能](/starryboard/features/v0/merge-video-and-chapters)
 * 動画字幕(.srt .ssa)
 * 絵コンテ（.pdf）
 * 連番画像（.png .jpg）
