@@ -4,38 +4,38 @@
 
 ### Starryboard 
 
-Windows10/11向けの絵コンテ制作支援アプリです。
+Windows10/11向けの絵コンテ制作支援アプリ
 
 * [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
 * 2024年 8月 提供開始
-* [ホームページ](https://tor4kichi.github.io/starryboard/about)
-* [アプリの使い方](https://tor4kichi.github.io/starryboard/features/features_v0.md)
-* [プライバシーポリシー](https://tor4kichi.github.io/starryboard/privacy-policy)
+* [ホームページ](/starryboard/about)
+* [アプリの使い方](/starryboard/features/v0/features.md)
+* [プライバシーポリシー](/starryboard/privacy-policy)
 
 ### VoiClo
 
-Windows10/11デスクトップ向けの合成音声や音楽ファイルを利用してタイマーやアラーム、時報を鳴らすことが出来る仕事・生活補助アプリです。
+Windows10/11デスクトップ向けの合成音声や音楽ファイルを利用してタイマーやアラーム、時報を鳴らすことが出来る仕事・生活補助アプリ
 
 * [ストアページ](https://www.microsoft.com/store/apps/9P44GTTGB3Q6)
 * 2022年 提供開始
-* [プライバシーポリシー](https://tor4kichi.github.io/VoiClo/privacy-policy)
+* [プライバシーポリシー](/VoiClo/privacy-policy)
 * v1.2.0以前は VoiceOfClock という名前で公開していました
 
 ### ツバメビューア
 
-Windows/Xbox向けの漫画と小説のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます。
+Windows/Xbox向けの漫画と小説のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます
 
 * [ストアページ](https://apps.microsoft.com/store/detail/%E3%83%84%E3%83%90%E3%83%A1%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/9NDXXQRG4PL8?hl=ja-jp&gl=jp)
 * 2020年 提供開始
-* [プライバシーポリシー](https://tor4kichi.github.io/tsubame_viewer/privacy-policy)
+* [プライバシーポリシー](/tsubame_viewer/privacy-policy)
 
 ### Hohoema 
 
-Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリです。
+Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリ
 
 * [ストアページ](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io)
 * 2016年 提供開始
-* [プライバシーポリシー](https://tor4kichi.github.io/hohoema/privacy-policy)
+* [プライバシーポリシー](/hohoema/privacy-policy)
 
 
 
@@ -43,7 +43,7 @@ Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリ�
 
 ### NiconicoToolkit
 
- .Net向けニコニコAPIライブラリです。
+ .Net向けニコニコAPIライブラリ
 
 * [Github](https://github.com/tor4kichi/NiconicoToolkit)
 * [nuget](https://www.nuget.org/packages/NiconicoToolkit/)

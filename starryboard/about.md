@@ -13,7 +13,15 @@ Windows向け絵コンテ制作アプリです。
   * デスクトップおよびタブレット環境
   * マウス・タッチ・ペン入力に対応
 
-### アプリの機能
+## リンク
+* [アプリの使い方](/starryboard/features/v0/features)
+* [アプリの更新情報](/starryboard/updates)
+* [プライバシーポリシー](/starryboard/privacy-policy)
+* [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
+
+
+
+## アプリの機能
 
 * 独自の絵コンテプロジェクトファイルによる逐次保存
 * シーンにカットを無限にいつでも追加・削除
@@ -31,6 +39,7 @@ Windows向け絵コンテ制作アプリです。
 ### エクスポート対応
 
 * 動画コンテ(.mp4)
+  * [チャプター結合も可能](/starryboard/features/v0/merge-video-and-chapters.md)
 * 動画字幕(.srt .ssa)
 * 絵コンテ（.pdf）
 * 連番画像（.png .jpg）
@@ -40,15 +49,5 @@ Windows向け絵コンテ制作アプリです。
 ### インポート対応
 
 対応予定
-
-## その他のリンク
-
-* [アプリの使い方](https://tor4kichi.github.io/starryboard/features/features_v0)
-* [アプリの更新情報](/starryboard/updates)
-
-* [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
-* [アプリへのご意見ご感想 - Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURFBZNzMzSTBEMlNNMjJHTEk0UU1WQVNZSS4u)
-
-* [プライバシーポリシー](/starryboard/privacy-policy)
 
 
