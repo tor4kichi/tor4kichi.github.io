@@ -1,5 +1,5 @@
 
-## [Starryboard](/Starryboard/about)
+## [Starryboard](/starryboard/about)
 
 ### 更新履歴
 

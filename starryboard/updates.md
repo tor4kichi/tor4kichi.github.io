@@ -1,5 +1,7 @@
 # Starryboard の更新情報
 
+## [Starryboard](/starryboard/about)
+
 ## 対応予定
 
 * v0.4.1~ 
