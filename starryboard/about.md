@@ -16,7 +16,7 @@ Windows11向けの絵コンテ制作アプリです。
 
 ## リンク
 
-* [アプリの使い方](/starryboard/features/v0)
+* [アプリの使い方](/starryboard/features/v0_5/index)
 * [アプリの更新情報](/starryboard/updates)
 * [プライバシーポリシー](/starryboard/privacy-policy)
 * [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
