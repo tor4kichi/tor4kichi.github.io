@@ -21,9 +21,12 @@ Windows11向けの絵コンテ制作アプリです。
 #### 動作環境
 
 * [GIGAスクール構想向け端末](https://www.intel.co.jp/content/www/jp/ja/education/giga-school/device.html#promotions
-) であれば十分に動作します。
+) であれば十分に動作します
 * タブレット端末でペンが無い、タッチ入力のみの場合は設定画面から「タッチで描く」を有効にすることでキャンバスでの描写操作が可能になります
 
+## クイックスタート
+
+[Starryboardの使い方 クイックスタート](/starryboard/quick-start)
 
 ## 機能
 

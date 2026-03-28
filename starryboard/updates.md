@@ -1,6 +1,7 @@
-# Starryboard の更新情報
-
 ## [Starryboard](/starryboard/about)
+
+
+# Starryboard の更新情報
 
 ## 対応予定
 
