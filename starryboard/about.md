@@ -8,45 +8,40 @@ Windows11向けの絵コンテ制作アプリです。
 	<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200"/>
 </a>
 
-### 対応プラットフォーム
+#### 対応プラットフォーム
 
 * Windows11 / Windows10 version 2004（build 19041）以降 
   * デスクトップおよびタブレット環境
   * マウス・タッチ・ペン入力に対応
 
+#### 対応言語
+
+* 日本語／英語
+
+#### 動作環境
+
+* [GIGAスクール構想向け端末](https://www.intel.co.jp/content/www/jp/ja/education/giga-school/device.html#promotions
+) であれば十分に動作します。
+* タブレット端末でペンが無い、タッチ入力のみの場合は設定画面から「タッチで描く」を有効にすることでキャンバスでの描写操作が可能になります
+
+
+## 機能
+
+* カットを自由に追加・削除・並び替え。シーンにカットを分けて整理
+* 絵とセリフとタイミングを合わせてすぐプレビュー再生
+* タグ選択でレイヤー＋色を切替。１カットの質よりエピソード全体を完成させるための制約
+* エクスポート方法【動画コンテ】【絵コンテ】【動画の字幕】【連番画像】【台本】に対応
+* １エピソードに１つのファイル。編集データは逐次保存
+
 ## リンク
 
-* [アプリの使い方](/starryboard/features/v0_5/index)
+<!-- 
+* ~~[アプリの使い方](/starryboard/features/v0_5/index)~~
+-->
 * [アプリの更新情報](/starryboard/updates)
 * [プライバシーポリシー](/starryboard/privacy-policy)
 * [アプリの不具合報告 - Microsoft Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAObntfNURDJFOUJGU0pZRVM5SVNXUTU3SE5RNFA5MS4u)
 
-
-
-## アプリの機能
-
-* 独自の絵コンテプロジェクトファイルによる逐次保存（Ctrl+S不要）
-* シーンにカットを無限にいつでも追加・削除
-* カットの番号や合計再生時間を自動計算
-* 画像レイヤーにタグ付け。タグごとの色選択、タグを含むカットの検索など便利な機能が色々
-* タグごとにレイヤー・ペンブラシ・色を一括選択するお絵描きセット機能を搭載
-* 軽量なプレビューをいつでも再生。別ウィンドウでもプレビューできます
-* エクスポート方法を複数種類一括で扱える。字幕＋動画＋台本などバージョン統一して一括出力可能
-
-### エクスポート対応
-
-* 動画コンテ(.mp4)
-  * [チャプター結合について](/starryboard/features/v0/merge-video-and-chapters)
-* 動画字幕(.srt .ssa)
-* 絵コンテ（.pdf）
-* 連番画像（.png .jpg）
-* 縦書き台本（.epub）
-* 【対応予定】データ（.json .csv
-* 【対応予定】動画編集ソフト向けのファイル形式
-
-### インポート対応
-
-対応予定
 
 
 
