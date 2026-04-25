@@ -1,10 +1,10 @@
-## [Starryboard](/starryboard/about)
+## [Starryboardの使い方](/starryboard/about)
 
-## シナリオ・歌詞の取り込みについて
+# シナリオ・歌詞の取り込み
 
 シナリオや歌詞となるテキストファイルを取り込んでカットに変換できる機能です。
 
-### シンプルなシナリオテキスト
+## シンプルなシナリオテキスト
 
 拡張子：.txt
 
@@ -21,7 +21,7 @@
 ```
 
 
-### 歌詞 LyRiCs
+## 歌詞 LyRiCs
 
 拡張子：.lrc
 
@@ -36,7 +36,7 @@
 ```
 
 
-### 字幕 WebVTT
+## 字幕 WebVTT
 
 拡張子：.vtt
 
@@ -56,7 +56,7 @@ WEBVTT
 <話者名>セリフセリフセリフセリフ
 ```
 
-### 字幕 SubRip Subtitle
+## 字幕 SubRip Subtitle
 
 拡張子：.srt
 

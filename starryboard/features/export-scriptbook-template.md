@@ -1,4 +1,4 @@
-## [Starryboard](/starryboard/about)
+## [Starryboardの使い方](/starryboard/about)
 
 [この文章は Gemini を使用して生成しました](https://gemini.google.com/share/6f993992d347)
 

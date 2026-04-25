@@ -8,7 +8,7 @@ Windows10/11向けの絵コンテ制作支援アプリ
 
 * [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
 * 2024年 8月 提供開始
-* [ホームページ](/starryboard/about)
+* [このアプリについて](/starryboard/about)
 * [プライバシーポリシー](/starryboard/privacy-policy)
 
 ### VoiClo
