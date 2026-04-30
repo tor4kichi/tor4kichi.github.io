@@ -36,12 +36,12 @@ Windows11向けの絵コンテ制作アプリです。
 * 絵とセリフとタイミングを合わせてすぐプレビュー再生
 * タグ選択でレイヤー＋色を切替
 * インポート
-  * [シナリオ・歌詞の取り込み](import-senario-lyrics)
+  * [シナリオ・歌詞の取り込み](/starryboard/features/import-senario-lyrics)
 * エクスポート
   * 動画コンテ (.mp4)
   * 絵コンテ (.png .jpg PDF)
   * [編集用動画](/starryboard/features/export-video-for-edit) (FCPXML/OTIO)
-  * [台本](/starryboard/features/export-scriptbook-template) (.docx)
+  <!-- * [台本](/starryboard/features/export-scriptbook-template) (.docx) -->
   * 動画の字幕 (.srt)
   * 連番画像 (.png .jpg)
 
