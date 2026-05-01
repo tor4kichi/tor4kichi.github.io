@@ -36,7 +36,8 @@ Windows11向けの絵コンテ制作アプリです。
 * 絵とセリフとタイミングを合わせてすぐプレビュー再生
 * タグ選択でレイヤー＋色を切替
 * インポート
-  * [シナリオ・歌詞の取り込み](/starryboard/features/import-senario-lyrics)
+  * [シナリオ・歌詞の取り込んでカットに変換](/starryboard/features/import-senario-lyrics)
+  * 画像を取り込んでカットに変換
 * エクスポート
   * 動画コンテ (.mp4)
   * 絵コンテ (.png .jpg PDF)
