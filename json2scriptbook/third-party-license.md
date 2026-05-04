@@ -1,3 +1,5 @@
+[JsonToScriptBookについて](./about)
+
 # サードパーティライブラリの権利表記
 
 JsonToScriptBook が利用しているライブラリとその権利表記です。

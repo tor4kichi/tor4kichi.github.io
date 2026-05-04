@@ -10,6 +10,10 @@
 
 // TODO: 
 
+### 対応プラットフォーム
+
+Windows11 （x86/x64/arm64）
+
 ## 使い方
 
 ### [Starryboard](../starryboard/about) を利用している場合

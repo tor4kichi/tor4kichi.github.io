@@ -1,3 +1,5 @@
+[JsonToScriptBookについて](./about)
+
 # JsonToScriptBookのプライバシーポリシー
 
 本ページは JsonToScriptBook （以下「本アプリ」と称する。また説明を簡易にするため主語が省略されている場合は原則として本アプリを指すこととする）のプライバシーポリシーをご案内します。
