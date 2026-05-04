@@ -11,6 +11,15 @@ Windows10/11向けの絵コンテ制作支援アプリ
 * [このアプリについて](/starryboard/about)
 * [プライバシーポリシー](/starryboard/privacy-policy)
 
+### JsonToScriptBook
+
+JsonとテンプレートDocxを組み合わせ台本にする
+
+* ~~[ストアページ](https://www.microsoft.com/store/apps/)~~ 準備中
+* 2026年 5月 提供開始
+* [このアプリについて](/json2scriptbook/about)
+* [プライバシーポリシー](/json2scriptbook/privacy-policy)
+
 ### VoiClo
 
 Windows10/11デスクトップ向けの合成音声や音楽ファイルを利用してタイマーやアラーム、時報を鳴らすことが出来る仕事・生活補助アプリ
