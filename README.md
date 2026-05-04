@@ -15,7 +15,7 @@ Windows10/11向けの絵コンテ制作支援アプリ
 
 JsonとテンプレートDocxを組み合わせ台本にする
 
-* ~~[ストアページ](https://www.microsoft.com/store/apps/)~~ 準備中
+* [ストアページ](https://www.microsoft.com/store/apps/9NV7VNL63051)
 * 2026年 5月 提供開始
 * [このアプリについて](/json2scriptbook/about)
 * [プライバシーポリシー](/json2scriptbook/privacy-policy)
