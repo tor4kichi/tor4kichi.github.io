@@ -16,7 +16,7 @@
 
 * シナリオ向けのテキスト、およびMV向けの歌詞フォーマットの取り込みに対応しました
   * ファイル選択or貼り付けをするための追加ボタンがシーン一覧の下側にあります
-  * 対応形式： https://tor4kichi.github.io/starryboard/features/import-senario-lyrics
+  * 対応形式： [.txt .lrc .vtt .srt](https://tor4kichi.github.io/starryboard/features/import-senario-lyrics)
   * 取り込むと現在表示中のエピソードに新しいシーンとしてカットが追加されます
 * 画像ファイルの取り込みに対応しました
   * 表示や動作はテキストと歌詞の取り込みとほぼ同じです
