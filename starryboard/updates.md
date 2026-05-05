@@ -10,6 +10,11 @@
 
 ## 更新履歴
 
+### v0.8.1
+
+* JSONエクスポートを通じて台本制作ができるように [JsonToScriptBook](/json2scriptbook/about) アプリをリリースしました
+* Starryboard のエクスポート画面からJSONを出力し、合わせて台本フォーマットのDocxファイルが保存できるようになっているので、docxとjsonをJsonToScriptBookアプリにD&Dすると展開された台本が作成されます
+
 ### v0.8
 
 【インポート】
