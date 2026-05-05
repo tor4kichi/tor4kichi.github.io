@@ -42,7 +42,7 @@ Windows11向けの絵コンテ制作アプリです。
   * 動画コンテ (.mp4)
   * 絵コンテ (.png .jpg PDF)
   * [編集用動画](/starryboard/features/export-video-for-edit) (FCPXML/OTIO)
-  <!-- * [台本](/starryboard/features/export-scriptbook-template) (.docx) -->
+  * 台本用データ(.json) （[台本への変換には JsonToScriptBook が必要です](/json2scriptbook/about)）
   * 動画の字幕 (.srt)
   * 連番画像 (.png .jpg)
 
