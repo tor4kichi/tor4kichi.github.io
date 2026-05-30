@@ -1,6 +1,6 @@
 # TsubameViewerの更新履歴
 
-![TsubameViewerのアイコン画像](Square44x44Logo.altform-unplated_targetsize-48.png)
+![TsubameViewerのアイコン画像](updates-icon.png)
 
 ## v2.0.0
 
