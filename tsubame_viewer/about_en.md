@@ -5,6 +5,8 @@
 
 An image, novel, and video viewer designed exclusively for Windows
 
+![](image-12.png)
+
 ## Download
 
 <a href="https://apps.microsoft.com/detail/9ndxxqrg4pl8?referrer=appbadge&cid=github_io_about_en&mode=full" target="_blank"  rel="noopener noreferrer">
