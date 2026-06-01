@@ -3,7 +3,7 @@
 
 以下は TsubameViewer に含まれるソフトウェアの権利表記です。
 
-表記等に不備がございましたらお手数ですがご連絡ください。
+表記等に不備がございましたらお手数ですが下記メールアドレスまでご連絡ください。
 
 連絡先： tor4kichi@hotmail.com
 
@@ -799,6 +799,7 @@ That's all there is to it!
 
 [https://github.com/microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons)
 
+```
 MIT License
 
 Copyright (c) 2020 Microsoft Corporation
@@ -820,6 +821,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ## PDFtoImage
 
@@ -934,3 +936,21 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## FFmpegInteropX
+
+[https://github.com/microsoft/FFmpegInterop](https://github.com/microsoft/FFmpegInterop)
+
+Copyright (c) FFmpegInteropX Contributors.
+
+Licensed under the Apache License, Version 2.0.
+
+## FFmpeg
+
+[https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+
+Copyright (c) 2000-2026 the FFmpeg developers.
+
+FFmpegは GNU Lesser General Public License (LGPL) version 2.1 以降（または GNU General Public License (GPL) version 2 以降）のもとでライセンスされています。
+
+当アプリで使用しているFFmpegのビルド設定およびソースコード、ビルド手順は、FFmpegInteropX公式のビルドスクリプトを参照してください。
