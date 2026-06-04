@@ -39,7 +39,7 @@ An image, novel, and video viewer designed exclusively for Windows
 * E-books
   * .epub
 * Video
-  * .mp4/[.webm](https://apps.microsoft.com/detail/9pg2dk419drg)(*1)/[.hevc](ms-windows-store://pdp/?ProductId=9n4wgh0z6vhq)(*1)
+  * .mp4/.webm/.hevc/.mkv/.avi/.wmv/.ts/.mov
 
 *1 Requires a separate extension to add codecs
 
@@ -48,16 +48,22 @@ An image, novel, and video viewer designed exclusively for Windows
 
 ### Image Viewer
 
-* Supports two-page spread view
-* Preloads previous and next pages
+* Supports two-page view
+* Pre-loading of previous and next pages
 * Zoom in/out
+* Swipe left or right to turn pages
+* Jump to specific folders within the archive
  
 ### Novel Viewer
 
-* Supports vertical and horizontal text orientation
-* Text adjusts to fit the screen (supports “reflowable layout”)
+* Freely switch between vertical and horizontal text orientation
+* Smooth page turning with file pre-loading
+* Text adjusts to fit the screen size (supports “reflowable layout”)
 * Customize fonts, text size, background color, and more
-* Jump to specific chapters
+* Jump to specific chapters or files
+* Swipe left or right to turn pages
+* Swipe down to display the table of contents
+* Swipe up to close the viewer
 
 
 ### Movie Viewer
