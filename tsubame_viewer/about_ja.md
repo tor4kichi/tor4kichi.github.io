@@ -10,7 +10,7 @@ Windows専用の画像・小説・動画ビューアです
 ## ダウンロード
 
 <a href="https://apps.microsoft.com/detail/9ndxxqrg4pl8?referrer=appbadge&cid=github_io_about_jp&mode=full" target="_blank"  rel="noopener noreferrer">
-	<img src="https://get.microsoft.com/images/ja%20light.svg" width="200"/>
+	<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200"/>
 </a>
 
 [https://www.microsoft.com/store/apps/9NDXXQRG4PL8](https://www.microsoft.com/store/apps/9NDXXQRG4PL8)
@@ -18,16 +18,20 @@ Windows専用の画像・小説・動画ビューアです
 ### 対応プラットフォーム
 
 * Windows11
-* Windows10 (バージョン1809 以降必須）
+* Windows10 （バージョン1809 以降必須）
 
 ## アプリ概要
 
 * フォルダをアプリに登録して利用開始
-* フォルダを巡ってビューアで読むまでの流れをサポート
 * 圧縮ファイル内の画像をストレージに展開せずに表示
-* 見開き表示対応（画像ビューア）
-* 縦書き表示に対応（小説ビューア）
-* タブレットでの表示・操作に対応
+* 画像ビューアは見開き表示にも対応
+* 小説ビューアはEPUB対応、縦書き表示を自由に切り替え
+* 動画ビューアはシンプルUIで視聴をサポート
+* タブレットにも最適な画面レイアウト（狭い幅で表示しても画面が崩れない）
+* アプリ全体に渡って統一感のあるUI
+* 完全オフライン動作（アプリ更新時の通信はOS側で処理されます）
+* 広告無し・課金無しですべての機能にアクセス可能
+* 開発支援アドオンとしてアプリ内課金があります。アドオンを購入して開発者を応援してください
 
 ## 対応しているファイル形式
 
@@ -85,6 +89,7 @@ Windows専用の画像・小説・動画ビューアです
 
 ### アプリの機能
 
+* テーマ切替（OSデフォルト/ライト/ダーク）
 * エクスプローラーなどからのファイル拡張子の関連付け起動に対応
 * ドラッグ＆ドロップによるファイルやフォルダを開く動作に対応
 * スタート画面へのピン留めに対応
@@ -94,6 +99,7 @@ Windows専用の画像・小説・動画ビューアです
 
 ## リンク
 
+* [ソースコード](https://github.com/tor4kichi/TsubameViewer)
 * [ツバメビューアの更新履歴](./updates)
 * [プライバシーポリシー](./privacy-policy)
 * [サードパーティライセンスの権利表記](./Third-Party-Library-Notice)
