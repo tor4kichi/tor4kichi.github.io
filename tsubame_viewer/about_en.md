@@ -33,6 +33,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Fully offline operation (Data communication during app updates is handled by the OS)
 * Access all features with no ads and no in-app purchases
 * In-app purchases are available as a way to support the development of this app. Please purchase add-ons to support the developer.
+* The source code is openly available (see the link below)
 
 ## Supported File Formats
 
