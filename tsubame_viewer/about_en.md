@@ -1,6 +1,4 @@
 
-[日本語](./about_ja) / English
-
 # TsubameViewer
 
 An image, novel, and movie viewer designed exclusively for Windows
