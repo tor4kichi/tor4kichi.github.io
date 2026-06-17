@@ -1,7 +1,7 @@
 
 日本語 / [English](./about_en)
 
-## ツバメビューア（TsubameViewer）
+# ツバメビューア
 
 Windows専用の画像・小説・動画ビューアです
 

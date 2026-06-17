@@ -1,7 +1,3 @@
----
-layout: default
-title: ツバメビューアの更新履歴
----
 
 # TsubameViewerの更新履歴
 
