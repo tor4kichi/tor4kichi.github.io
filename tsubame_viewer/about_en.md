@@ -57,7 +57,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Swipe left or right to turn pages
 * Jump to specific folders within the archive
  
-### Novel Viewer
+### Novel Viewer (EPUB Reader)
 
 * Freely switch between vertical and horizontal text orientation
 * Smooth page turning with file pre-loading
@@ -69,12 +69,16 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Swipe up to close the viewer
 
 
-### Movie Viewer
+### Movie Viewer (Video Player)
 
 * Play, pause, and resume playback from a specific point
 * Adjust playback speed
 * Loop playback
 * Move forward or backward by one frame
+* Track switching (supports video, audio, and subtitles, as well as external audio and subtitles)
+  * Supported external audio formats: .mp3/.m4a/.wma/.wav/.aac/.adts/.flac/.ogg/.oga/.opus
+  * Supported external subtitle formats: .srt/.vtt/.ass/.ssa/.txt/.lrc
+* Preview display on the seek bar (a thumbnail appears when you hover the mouse over the seek bar)
 * Transform the display (flip horizontally, rotate, or scale)
 * Background playback
 * Swipe left or right to move the playback position
