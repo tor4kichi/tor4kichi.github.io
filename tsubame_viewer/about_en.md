@@ -56,6 +56,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Zoom in/out
 * Swipe left or right to turn pages
 * Jump to specific folders within the archive
+* Preview display for the page selection slider (a thumbnail appears when you hover over it)
  
 ### Novel Viewer (EPUB Reader)
 
@@ -100,6 +101,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Supports opening files and folders via drag-and-drop
 * Supports pinning to the Start screen
 * Filter view within the displayed folder
+  * You can also filter Japanese filenames using Romaji input (uses migemo as the underlying technology)
 * Search across all folders registered in the app
 
 ## Links
