@@ -111,7 +111,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * [Privacy Policy (ja)](./privacy-policy)
 * [Third-Party Library Notices](./Third-Party-Library-Notice)
 
-## スクリーンショット
+## Screenshot
 
 ![List of Registered Folders Page](image-2.png)
 
