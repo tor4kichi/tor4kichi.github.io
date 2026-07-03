@@ -18,6 +18,16 @@
 * [コンテンツの読了率](#コンテンツの読了率)
   * [フォルダの読了数表示](#フォルダの読了数表示)
 
+## ダウンロードとインストール
+
+マイクロソフトストアのツバメビューアページからダウンロード＆インストールできます
+
+<a href="https://apps.microsoft.com/detail/9ndxxqrg4pl8?referrer=appbadge&cid=github_io_about_jp&mode=full" target="_blank"  rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/ja%20dark.svg" width="200"/>
+</a>
+
+[https://www.microsoft.com/store/apps/9NDXXQRG4PL8](https://www.microsoft.com/store/apps/9NDXXQRG4PL8)
+
 ## ざっくりとした概要
 
 * アプリにフォルダを登録して使い始めよう
@@ -176,7 +186,7 @@
 
 動画に音声トラックが無い場合に外部音声があれば、自動的に音声トラックとして選択され、同期的に再生します。
 
-字幕は表示選択状態が自動的に適用されます。自動選択条件は優先度順に「IDが一致する」「言語（language）が一致する（同一言語は１つまで自動選択）」の２点です。
+字幕は別動画を開いた時にも字幕のIDと言語に基づいて自動で選択されます。自動選択の条件は優先度順に「字幕IDが一致する」「言語（language）が一致し、かつ、同一言語は１つまで」の２点です。
 
 
 ### 短い動画のループ再生の自動有効化
