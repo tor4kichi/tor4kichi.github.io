@@ -45,7 +45,7 @@ Windows専用の画像・小説・動画ビューアです
 * 電子書籍
   * .epub
 * 動画
-  * .mp4/.webm/.hevc/.mkv/.avi/.wmv/.ts/.mov
+  * .mp4/.webm/.hevc/.mkv/.avi/.wmv/.ts/.mov/.flv
 
 *1 別途コーデックを追加する拡張機能が必要です
 

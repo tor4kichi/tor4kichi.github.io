@@ -42,7 +42,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * E-books
   * .epub
 * Movie
-  * .mp4/.webm/.hevc/.mkv/.avi/.wmv/.ts/.mov
+  * .mp4/.webm/.hevc/.mkv/.avi/.wmv/.ts/.mov/.flv
 
 *1 Requires a separate extension to add codecs
 
