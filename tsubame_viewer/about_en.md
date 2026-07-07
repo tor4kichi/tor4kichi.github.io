@@ -96,12 +96,12 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 
 ### App Features
 
-* Theme Switch (OS Default / Light / Dark)
-* Supports launching files by file extension association from Explorer and other applications
-* Supports opening files and folders via drag-and-drop
-* Supports pinning to the Start screen
-* Filter view within the displayed folder
-  * You can also filter Japanese filenames using Romaji input (uses migemo as the underlying technology)
+* Theme switching (OS default / Light / Dark)
+* Double-click a file in File Explorer to open it in Tsubame Viewer (launch via file association)
+* Drag and drop files or folders into the app to view them in a list or open them in the viewer
+* Supports pinning to the Start screen (applies to folders and content displayed in the folder list)
+* Filter searches within the displayed folder
+  * You can filter Japanese filenames using Romaji input (uses migemo as the underlying technology)
 * Search across all folders registered in the app
 
 ## Links
