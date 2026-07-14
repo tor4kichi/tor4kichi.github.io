@@ -53,7 +53,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 
 * Supports two-page view
 * Pre-loading of previous and next pages
-* Zoom in/out
+* Display Transformations (Zoom Toggle, Position Adjustment)
 * Swipe left or right to turn pages
 * Jump to specific folders within the archive
 * Preview display for the page selection slider (a thumbnail appears when you hover over it)
@@ -80,7 +80,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
   * Supported external audio formats: .mp3/.m4a/.wma/.wav/.aac/.adts/.flac/.ogg/.oga/.opus
   * Supported external subtitle formats: .srt/.vtt/.ass/.ssa/.txt/.lrc
 * Preview display on the seek bar (a thumbnail appears when you hover the mouse over the seek bar)
-* Transform the display (flip horizontally, rotate, or scale)
+* Display Transformations (Flip Horizontally, Rotate, Zoom Toggle, Position Adjustment)
 * Background playback
 * Swipe left or right to move the playback position
 * Swipe up or down to adjust the volume
@@ -92,6 +92,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Displays compressed files directly without extracting them to storage
   * Supported by both the Manga Viewer and Novel Viewer
 * Displays viewing progress at the bottom of the screen
+* Detection of preceding and following content and automatic navigation to the next piece of content
 
 
 ### App Features
