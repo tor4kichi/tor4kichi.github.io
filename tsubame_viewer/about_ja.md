@@ -20,7 +20,7 @@ Windows専用の画像・小説・動画ビューアです
 
 ### 使い方
 
-* [ツバメビューアの使い方](tsubame_viewer/how-to-use_ja)
+* [ツバメビューアの使い方](./how-to-use_ja)
 
 ## アプリ概要
 
