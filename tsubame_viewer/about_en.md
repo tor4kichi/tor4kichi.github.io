@@ -81,6 +81,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
   * Supported external subtitle formats: .srt/.vtt/.ass/.ssa/.txt/.lrc
 * Preview display on the seek bar (a thumbnail appears when you hover the mouse over the seek bar)
 * Display Transformations (Flip Horizontally, Rotate, Zoom Toggle, Position Adjustment)
+* Video Effects (Brightness, Contrast, Saturation)
 * Background playback
 * Swipe left or right to move the playback position
 * Swipe up or down to adjust the volume
@@ -93,6 +94,7 @@ A screen layout optimized for tablets (the layout remains intact even when displ
   * Supported by both the Manga Viewer and Novel Viewer
 * Displays viewing progress at the bottom of the screen
 * Detection of preceding and following content and automatic navigation to the next piece of content
+* Display the viewer in a separate window
 
 
 ### App Features
