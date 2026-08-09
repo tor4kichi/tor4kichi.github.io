@@ -118,14 +118,26 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 
 ## Screenshot
 
+### List of Registered Folders
+
 ![List of Registered Folders Page](image-2.png)
+
+### List of Images
 
 ![Image List Page](image-9.png)
 
+### Image Viewer
+
 ![Image Viewer Page](image-10.png)
+
+### Novel Viewer
 
 ![Novel Viewer](image-1.png)
 
+### Novel Viewer Settings
+
 ![Novel Viewer Settings](image.png)
+
+### Movie Viewer
 
 ![Movie Viewer](image-11.png)
