@@ -5,6 +5,8 @@ Windows専用の画像・小説・動画ビューアです
 
 ![](image-12.png)
 
+### [アプリのスクリーンショットはこちら](#スクリーンショット)
+
 ## ダウンロード
 
 <a href="https://apps.microsoft.com/detail/9ndxxqrg4pl8?referrer=appbadge&cid=github_io_about_jp&mode=full" target="_blank"  rel="noopener noreferrer">
@@ -128,4 +130,4 @@ Windows専用の画像・小説・動画ビューアです
 
 ![小説ビューアの設定](image-7.png)
 
-![動画ビューア](image-8.png)
+![動画ビューア](image-17.png)
