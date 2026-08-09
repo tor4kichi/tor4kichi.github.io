@@ -18,18 +18,20 @@ An image, novel, and movie viewer designed exclusively for Windows
 
 ### Supported Platforms
 
-* Windows 11
-* Windows 10 (Version 1809 or later required)
+* Windows 11 or Windows 10 (Version 1809 or later required)
+* Compatible with x64, x86, and arm64
 
 ## App Overview
 
-* Register a folder in the app to get started
-* View images inside compressed files without extracting them to storage
-* The image viewer supports two-page spread view
-* The novel viewer supports EPUB, and includes a setting to force a reset of display issues
-* The movie viewer features a simple UI for easy playback
-A screen layout optimized for tablets (the layout remains intact even when displayed on a narrow screen)
-* Consistent UI across the entire app
+* Open a file by selecting Tsubame Viewer from File Explorer, or drag and drop the file into Tsubame Viewer to get started
+* You can use the app more conveniently by registering folders
+  * Displays thumbnails not only for images and videos but also for EPUB and ZIP files
+  * You can perform a filtered search for files with Japanese titles using Romanized input
+  * Shows which content you’ve already viewed
+  * Displays your viewing history
+* Supports tablet display and touch controls
+  * Responsive UI that adapts to different screen sizes and screen rotation
+  * You can set the app to launch in full-screen mode
 * Fully offline operation (Data communication during app updates is handled by the OS)
 * Access all features with no ads and no in-app purchases
 * In-app purchases are available as a way to support the development of this app. Please purchase add-ons to support the developer.
@@ -50,6 +52,16 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 
 
 ## Features
+
+### Features Common to All Viewers
+
+* Bookmark Feature
+  * Saves your last viewing position. Automatically resumes from there when you reopen the file.
+* Displays compressed files directly without extracting them to storage
+  * Supported by both the image viewer and the novel viewer
+* Displays viewing progress at the bottom of the screen
+* Detects previous and next content and automatically moves to the next item
+* Opens the viewer in a separate window
 
 ### Image Viewer
 
@@ -87,17 +99,6 @@ A screen layout optimized for tablets (the layout remains intact even when displ
 * Background playback
 * Swipe left or right to move the playback position
 * Swipe up or down to adjust the volume
-
-### Features Common to All Viewers
-
-* Bookmark feature
-  * Displays the last viewed position. Automatically resumes playback when reopened
-* Displays compressed files directly without extracting them to storage
-  * Supported by both the Manga Viewer and Novel Viewer
-* Displays viewing progress at the bottom of the screen
-* Detection of preceding and following content and automatic navigation to the next piece of content
-* Display the viewer in a separate window
-
 
 ### App Features
 
