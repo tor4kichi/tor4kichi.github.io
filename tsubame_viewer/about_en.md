@@ -67,6 +67,7 @@ An image, novel, and movie viewer designed exclusively for Windows
 
 * Supports two-page view
 * Pre-loading of previous and next pages
+* Smoothly scales images to fit the screen (reducing moiré patterns and blurred text)
 * Display Transformations (Zoom Toggle, Position Adjustment)
 * Swipe left or right to turn pages
 * Jump to specific folders within the archive
