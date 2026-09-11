@@ -3,13 +3,6 @@
 
 ![TsubameViewerのアイコン画像](updates-icon.png)
 
-## v2.6.14
-
-* JPEG XL画像コーデックの表示に対応しました
-  * [JPEG XL - Wikipedia](https://ja.wikipedia.org/wiki/JPEG_XL)
-  * WIC経由で有効されます。利用するには[JPEG XL 画像表示オプション](https://apps.microsoft.com/detail/9mzprth5c0tb?hl=ja-JP&gl=JP)をインストールする必要があります
-  * プログレッシブデコードやアニメーションには非対応です。アプリが扱えるメモリを超える大きな画像を読み込もうとするとおそらくクラッシュします
-  * 
 ## v2.6.13
 
 * 画像ビューア、ウィンドウサイズに合わせて縮小する処理に画像を滑らかに表示するフィルタ機能を追加しました。デフォルトで有効です
