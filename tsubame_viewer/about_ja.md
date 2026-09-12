@@ -18,6 +18,12 @@ Windows専用の画像・小説・動画ビューアです
 * Windows11 or Windows10 （バージョン1809 以降必須）
 * x64/x86/arm64 のいずれにも対応
 
+### お役立ちリンク
+
+* [使い方](./how-to-use_ja)
+* [よくある質問](./trouble-shooting_ja)
+* [アプリの更新履歴](./updates)
+
 
 ## アプリ概要
 
@@ -111,7 +117,7 @@ Windows専用の画像・小説・動画ビューアです
 ## リンク
 
 * [ソースコード](https://github.com/tor4kichi/TsubameViewer)
-* [ツバメビューアの更新履歴](./updates)
+* [更新履歴](./updates)
 * [プライバシーポリシー](./privacy-policy)
 * [サードパーティライセンスの権利表記](./Third-Party-Library-Notice)
 

@@ -21,6 +21,15 @@ An image, novel, and movie viewer designed exclusively for Windows
 * Windows 11 or Windows 10 (Version 1809 or later required)
 * Compatible with x64, x86, and arm64
 
+### Useful Links
+
+These pages are in Japanese, so please use your browser's translation feature.
+
+* [How to Use](./how-to-use_ja)
+* [Frequently Asked Questions](./trouble-shooting_ja)
+* [App Update History](./updates)
+
+
 ## App Overview
 
 * Open a file by selecting Tsubame Viewer from File Explorer, or drag and drop the file into Tsubame Viewer to get started
