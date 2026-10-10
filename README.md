@@ -6,7 +6,7 @@
 
 Windows10/11向けの絵コンテ制作支援アプリ
 
-* [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ)
+* [ストアページ](https://www.microsoft.com/store/apps/9PN1WKV4CGLJ?ca=github_io)
 * 2024年 8月 提供開始
 * [このアプリについて](/starryboard/about)
 * [プライバシーポリシー](/starryboard/privacy-policy)
@@ -15,7 +15,7 @@ Windows10/11向けの絵コンテ制作支援アプリ
 
 JsonとテンプレートDocxを組み合わせ台本にする
 
-* [ストアページ](https://www.microsoft.com/store/apps/9NV7VNL63051)
+* [ストアページ](https://www.microsoft.com/store/apps/9NV7VNL63051?ca=github_io)
 * 2026年 5月 提供開始
 * [このアプリについて](/json2scriptbook/about)
 * [プライバシーポリシー](/json2scriptbook/privacy-policy)
@@ -24,7 +24,7 @@ JsonとテンプレートDocxを組み合わせ台本にする
 
 Windows10/11デスクトップ向けの合成音声や音楽ファイルを利用してタイマーやアラーム、時報を鳴らすことが出来る仕事・生活補助アプリ
 
-* [ストアページ](https://www.microsoft.com/store/apps/9P44GTTGB3Q6)
+* [ストアページ](https://www.microsoft.com/store/apps/9P44GTTGB3Q6?ca=github_io)
 * 2022年 提供開始
 * [プライバシーポリシー](/VoiClo/privacy-policy)
 * v1.2.0以前は VoiceOfClock という名前で公開していました
@@ -33,7 +33,7 @@ Windows10/11デスクトップ向けの合成音声や音楽ファイルを利�
 
 Windows10/11専用の漫画と小説と動画のビューアです。zipやフォルダでまとめた画像、ePubの小説がサクサク読めます。v2.0から動画視聴も対応しました
 
-* [ストアページ](https://apps.microsoft.com/store/detail/%E3%83%84%E3%83%90%E3%83%A1%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A2/9NDXXQRG4PL8?hl=ja-jp&gl=jp)
+* [ストアページ](https://www.microsoft.com/store/apps/9NDXXQRG4PL8?ca=github_io)
 * 2020年 提供開始
 * [このアプリについて](/tsubame_viewer/about_ja)
 * [ツバメビューアの使い方](tsubame_viewer/how-to-use_ja)
@@ -43,7 +43,7 @@ Windows10/11専用の漫画と小説と動画のビューアです。zipやフ�
 
 Windows/Xbox向けのニコニコ動画や生放送のプレイヤーアプリ
 
-* [ストアページ](https://apps.microsoft.com/store/detail/hohoema/9NBLGGH4RXT6?hl=ja-jp&gl=jp&ca=github_io)
+* [ストアページ](https://www.microsoft.com/store/apps/9NBLGGH4RXT6?ca=github_io)
 * 2016年 提供開始
 * [プライバシーポリシー](/hohoema/privacy-policy)
 
